@@ -10,9 +10,7 @@ new Vue({
       isTimerPlaying: false,
       tracks: [
         {
-          name: "دعای توسل",
-          artist: "با نوای محسن فرهمند",
-          cover: "https://images.unsplash.com/photo-1564288063867-4c12caddb1f2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=300&q=80",
+          cover: "img/naajvaa-default-cover.png",
           source: "https://me.abolfaazl.me/radio/8000/radio.mp3?1586271661",
           url: "https://naajvaa.ir",
           favorited: true
